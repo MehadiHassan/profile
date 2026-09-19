@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+*.log
+
+# Source documents kept locally; the published copy lives in assets/docs/
+/Md.Mehadi Hassan Professional CV.pdf
+/Profile (1).pdf
